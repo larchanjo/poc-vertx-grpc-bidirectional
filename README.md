@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple poc using client streaming RPC.
+This is a simple poc using bidirectional streaming RPC.
 
 ## Set up
 
